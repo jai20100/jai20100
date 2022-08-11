@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jai Vardhan
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning C++
+- 👀 Enthusiastic towards research in machine learning.
 - 📫 How to reach me jai20100@outlook.com
 
 <!---
